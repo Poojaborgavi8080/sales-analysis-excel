@@ -38,7 +38,8 @@ This project analyzes sales data of Vrinda Store using Microsoft Excel to uncove
 - Specific categories generate maximum sales
 
 📷 Dashboard / Screenshots
-(Add screenshots of your Excel dashboard here)
+![Uploading image.png…]()
+
 
 🚀 How to Use
 1. Download the Excel file
